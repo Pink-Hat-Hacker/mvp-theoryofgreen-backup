@@ -39,3 +39,5 @@
 | -------------|----------|-----------------|--------|
 | [Phaser Library](https://phaser.io/) | ☕️ JavaScript | [Spriters Resource](https://www.spriters-resource.com/) | [Video Game Music](https://downloads.khinsider.com/game-soundtracks/nintendo-ds)|
 
+---
+## [Original Game Idea Pitch](https://docs.google.com/document/d/1rKwshrHt0h6ybj4wdw7Yo0h4-1OuNZ3TdptFvcLO9Ag/edit?usp=sharing)
