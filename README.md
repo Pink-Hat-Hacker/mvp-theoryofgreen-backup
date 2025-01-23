@@ -9,6 +9,15 @@
 
 ### Game Description
 > Imagine popular games such as Minecraft and Fortnite, except tasks, getting materials, and surviving is just as important as being environmentally conscious and sustainable –– teaching children about being eco-friendly while having fun. 
+#### [Play Now!](https://pink-hat-hacker.github.io/mvp-theoryofgreen-backup/)
+
+---
+### Children's Playtesting Review
+- Control's can be somewhat difficult to get a hang of
+- Interested in Power Ups & Sound effects
+- More enemies
+- Easy to stay focused on task and maintain environment
+---
 
 ### Game View
 **Instructions**
